@@ -20,5 +20,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="35" height="36"/>
  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML" width="35" height="35"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css3" width="35" height="36"/>
- <img src="https://devcamp.es/wp-content/uploads/2021/02/javascript-300x300-1.png" alt="javascript" width="35" height="35"/>
+ <img src="https://devcamp.es/wp-content/uploads/2021/02/javascript-300x300-1.png" alt="javascript" width="36" height="38"/>
 </p>
