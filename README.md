@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/advitiya9253" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" alt="advitiya9253" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/advitiya-patidar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/179/179330.png" alt="advitiya9253" height="30" width="30" /></a>
 <a href="https://instagram.com/advitiya.patidar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="advitiya.patidar" height="30" width="30" /></a>
-<a href="https://www.youtube.com/@advitiya4673" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="advitiya9253" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
